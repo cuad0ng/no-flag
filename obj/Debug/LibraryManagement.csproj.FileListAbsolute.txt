@@ -1,0 +1,30 @@
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\bin\Debug\LibraryManagement.exe
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\bin\Debug\MaterialSkin.dll
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.exe
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.pdb
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Register.resources
+E:\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Exit.resources
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\bin\Debug\LibraryManagement.exe
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\bin\Debug\MaterialSkin.dll
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Exit.resources
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Register.resources
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.exe
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.pdb
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.AdminForm.resources
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.DSDocGiaForm.resources
+E:\OneDrive - cuadong\Project\Semester5\DatabaseManagementSystem\LibraryManagement\obj\Debug\LibraryManagement.DSNhanVienForm.resources
